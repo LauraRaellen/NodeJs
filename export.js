@@ -1,0 +1,1 @@
+module.exports = "Eviando dados do módulo"
