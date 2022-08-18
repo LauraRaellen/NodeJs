@@ -4,15 +4,12 @@
   "description": "aprendendo-node",
   "main": "npm.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node npm"
   },
   "keywords": [
     "learning",
     "nodejs"
   ],
   "author": "Laura Raellen",
-  "license": "LRF",
-  "dependencies": {
-    "cfonts": "^3.1.1"
-  }
+  "license": "LRF"
 }
